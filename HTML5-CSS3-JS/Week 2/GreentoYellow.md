@@ -12,4 +12,5 @@
 			pixel.setBlue(0);
 
 	}
-}print(image);
+
+	}print(image);
