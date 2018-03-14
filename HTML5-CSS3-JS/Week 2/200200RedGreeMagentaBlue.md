@@ -19,7 +19,6 @@
     
 	else if (x<100 & y>=100) 
 	{
-	
 pixel.setRed(255);
         
 	pixel.setBlue(255);
