@@ -4,14 +4,17 @@
 
 	for(var pixel of image.values())
 	{
-   if (pixel.getRed() < 200) 
-	{
-        pixel.setRed(255);
-
-	pixel.setGreen(255);
+		
+if (pixel.getRed() < 200) 
+		{
         
-	pixel.setBlue(0);
-}
+			pixel.setRed(255);
+
+			pixel.setGreen(255);
+        
+			pixel.setBlue(0);
+
+		}
 	
 }
 	
