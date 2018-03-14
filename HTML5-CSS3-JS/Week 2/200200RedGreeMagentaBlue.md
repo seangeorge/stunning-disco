@@ -6,7 +6,6 @@
 
 	for (var pixel of image1.values()) 
 	{
-	
 var x = pixel.getX();
     
 	var y = pixel.getY();
