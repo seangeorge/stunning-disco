@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Upload Image and Change to GrayScale With Two Canvas</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <!--In the HTML panel, add a button that calls the function makeGray() when clicked.-->
+
+<!-- Create a SimpleImage from the chosen file. The SimpleImage library can be found at https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js. Remember you will need to use the <script src=’ ‘></script> tags in the HTML pane to tell your web page where to find the Simple Image library.-->
+
+<script src="http://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js">
+</script>
+
+<h1>Upload Image and Change to GrayScale With two canvas</h1>
+
+<canvas id = "can">
+</canvas>
+
+<canvas id = "d2">
+</canvas>
+
+<p>
+  <input type = "file" multiple = "false"
+         accept = "image/*" id = "finput"
+         onchange = "upload()">
+  <input type = "button" value = "Make GrayScale"
+         onclick = "makegray()"
+</p>
+  
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>

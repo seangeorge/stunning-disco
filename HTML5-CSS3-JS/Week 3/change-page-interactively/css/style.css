@@ -1,0 +1,20 @@
+div {
+  width : 200px;
+  fonst-size : 28px;
+}
+
+.redback {
+  background-color : red;
+}
+
+.fuchsiaback {
+  background-color : fuchsia;
+}
+
+.yellowback {
+  background-color : yellow;
+}
+
+.orangeback {
+  background-color : orange;
+}

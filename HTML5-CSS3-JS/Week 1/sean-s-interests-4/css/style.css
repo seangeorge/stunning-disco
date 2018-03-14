@@ -1,0 +1,108 @@
+
+body {
+  background-color :  #ff8080; }
+
+.top {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: RoyalBlue;
+  border-width: 1px;
+  padding-left: 5px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+.middle {
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.middle1 {
+  /*A blue box with rounded corners div*/
+  background-color: AliceBlue;
+  border: solid;
+  border-width: 1px;
+  border-color: CornflowerBlue;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.middle2 {
+  background-color: AliceBlue;
+  border: solid;
+  border-width: 1px;
+  border-color: CornflowerBlue;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.cleardiv {
+  /*A simple div*/
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.boxdiv {
+  /*A blue box with rounded corners div*/
+  background-color: AliceBlue;
+  border: solid;
+  border-width: 1px;
+  border-color: CornflowerBlue;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.tablediv {
+  /*A blue div that covers the full widith of the page*/
+  background-color: RoyalBlue;
+  width: 100%;
+  margin: 0px 0px 0px -9px;
+  padding: 2px 9px 0px 0px;
+  color: GhostWhite;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.tablediv h3 {
+  text-align: center;
+}
+
+.tablediv p {
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+p {
+  font-size: 1em;
+}
+
+img {
+  width: 30em;
+  border: solid;
+  border-width: 1px;
+  border-color: GhostWhite;
+}
+
+li {
+  font-size: 1em;
+}
+
+table {
+  /*puts table in the center of the page*/
+  margin: auto;
+}
