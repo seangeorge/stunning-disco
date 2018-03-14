@@ -3,7 +3,7 @@
 	var image = new SimpleImage("duke_blue_devil.png");
 
 	for(var pixel of image.values())
-	{
+	{	
 if (pixel.getRed() < 200) 
 		{
         
