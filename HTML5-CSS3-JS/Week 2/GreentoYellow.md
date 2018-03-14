@@ -4,7 +4,7 @@
 
 	for(var pixel of image.values())
 	{
-		
+	
 if (pixel.getRed() < 200) 
 		{
         
