@@ -3,7 +3,7 @@
 
 
 	var image1 = new SimpleImage(200,200);
-	
+
 
 for (var pixel of image1.values()) 
 	{
@@ -30,5 +30,7 @@ pixel.setRed(255);
 		else 
         
 		pixel.setBlue(255);
-}
-print(image1);
+
+		}
+
+	print(image1);
