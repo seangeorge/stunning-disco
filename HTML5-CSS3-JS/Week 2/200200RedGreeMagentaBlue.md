@@ -5,8 +5,7 @@
 	var image1 = new SimpleImage(200,200);
 
 	for (var pixel of image1.values()) 
-	{
-var x = pixel.getX();
+	{var x = pixel.getX();
     
 	var y = pixel.getY();
     
