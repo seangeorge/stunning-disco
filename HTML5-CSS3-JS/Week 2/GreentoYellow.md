@@ -10,8 +10,7 @@
 			pixel.setGreen(255);
         
 			pixel.setBlue(0);
-
-		}
+}
 	
 }
 	
