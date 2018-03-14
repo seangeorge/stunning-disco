@@ -1,4 +1,5 @@
 
+
 	
 var image = new SimpleImage(200,200);
 
@@ -9,6 +10,7 @@ var image = new SimpleImage(200,200);
 	var green = pixel.setGreen(0);
     
 	var blue = pixel.setBlue(255);
+
 }
 	
 print(image);
