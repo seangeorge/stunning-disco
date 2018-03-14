@@ -12,8 +12,8 @@ for (var pixel of image1.values()
 		var y = pixel.getY();
     
 		if (x<100 & y<100)
-
-pixel.setRed(255);
+        
+		pixel.setRed(255);
     
 		else if (x>=100 & y<100)
         
@@ -21,6 +21,7 @@ pixel.setRed(255);
     
 		else if (x<100 & y>=100) 
 		{
+		
 pixel.setRed(255);
         
 		pixel.setBlue(255);
