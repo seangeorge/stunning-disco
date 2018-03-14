@@ -32,4 +32,4 @@
 
 	print(image1);
 
-	![200200redgreemagentablue](https://user-images.githubusercontent.com/31294255/37407376-7f3f4e48-2767-11e8-89e4-ddb104d59e4f.png)
+![200200redgreemagentablue](https://user-images.githubusercontent.com/31294255/37407376-7f3f4e48-2767-11e8-89e4-ddb104d59e4f.png)
